@@ -81,7 +81,7 @@ var mainState = {
       }
       scoreText.text = 'Score:' + score;
 
-		if(score == 1000){
+		if(score == 40){
 			winText.visible = true;
 			scoreText.visible = false;
 		}
@@ -134,7 +134,7 @@ function setupInvader (invader) {
 
     bullet.kill();
     alien.kill();
-    score += 100;
+    score += 1;
     //  And create an explosion :)
     var explosion = explosions.getFirstExists(false);
     explosion.reset(alien.body.x, alien.body.y);
