@@ -3,7 +3,10 @@ The left and right arrow keys help you to move the spaceship and spacebar let yo
 the aliens above. Initially the game score is predefined for the user to achieve 5000 points to WIN the game. 
 
 It is developed on small canvas on HTML page which can be developed furthur to be played on full screen mode.
-
 Find the source code for the same here and develop it in more creative way as you would like.
+
+Code Credit: https://www.youtube.com/watch?v=IQs_pze2SsA&list=PL9iYZZWgVwsfd3z_wowmPYNOLOkqTvTRd
+
+Aditional features can be implemented by refering to https://phaser.io/
 
 Have fun!!!
